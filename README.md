@@ -44,6 +44,7 @@ Tabular Column
 
 Calculation
 
+<img width="1260" height="579" alt="image" src="https://github.com/user-attachments/assets/fdd49c65-e713-4e71-9501-37cbd2e5dc09" />
 
 
 
