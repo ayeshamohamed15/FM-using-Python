@@ -32,10 +32,13 @@ Program
 
 
 Output Waveform
+
 <img width="794" height="609" alt="Screenshot 2025-10-23 200044" src="https://github.com/user-attachments/assets/39095612-7e6c-444f-85d5-9c6e92a1c361" />
 
 
 Tabular Column
+
+![WhatsApp Image 2025-10-30 at 14 31 41_d751b781](https://github.com/user-attachments/assets/40fd1a84-1cf2-441d-9ae3-0b1f08605846)
 
 
 
